@@ -87,16 +87,8 @@ This project helped me strengthen my understanding of:
 - Random Module
 - Time Handling
 - File Handling
-- Problem Solving
-
----
-
-## 📸 Output
-
-> Add screenshots of the application here.
-
----
-<img width="1197" height="700" alt="s" src="https://github.com/user-attachments/assets/2aa290d0-5b4c-4c00-b8a7-ce6f79887b3c" />
+- Problem Solving.
+- 
 
 ## 👩‍💻 Author
 
