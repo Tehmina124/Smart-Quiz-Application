@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="quiz-banner.png" width="100%" alt="Smart Quiz Application Banner">
+  <img src="./smart-quiz-banner.png" width="100%" alt="Smart Quiz Application Banner">
 </p>
 
 <h1 align="center">📝 Smart Quiz Application</h1>
